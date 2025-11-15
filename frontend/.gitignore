@@ -1,0 +1,28 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Node modules
+node_modules/
+
+# Bytecode / cache
+__pycache__/
+*.pyc
+
+# FastAPI / NLP model cache
+*.cache/
+.cache/
+
+# Torch / large libs
+*.dll
+*.so
+*.dylib
+
+# Environment variables
+.env
+
+# Build / dist folders
+dist/
+build/
